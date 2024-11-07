@@ -3,7 +3,7 @@
             "creator": "Skap Scripts",
             "title": "Scrap Job",
             "description": "A job where you collect scrap.",
-            "categories": { "Jobs", "Economy" },
+            "categories": ["Jobs", "Economy"],
             "openSource": false,
             "isFree": false,
             "link": "https://github.com/SkapScripts/SkapHunting"
