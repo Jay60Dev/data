@@ -1,4 +1,4 @@
-{
+[
         {
             "creator" = "Skap Scripts",
             "title" = "Scrap Job",
@@ -8,4 +8,4 @@
             "isFree" = false,
             "link" = "https://github.com/SkapScripts/SkapHunting",
         }
-}
+]
